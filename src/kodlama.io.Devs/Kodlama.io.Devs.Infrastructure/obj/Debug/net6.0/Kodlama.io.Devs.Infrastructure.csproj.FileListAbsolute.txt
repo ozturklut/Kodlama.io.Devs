@@ -1,0 +1,12 @@
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Infrastructure/bin/Debug/net6.0/Kodlama.io.Devs.Infrastructure.deps.json
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Infrastructure/bin/Debug/net6.0/Kodlama.io.Devs.Infrastructure.dll
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Infrastructure/bin/Debug/net6.0/Kodlama.io.Devs.Infrastructure.pdb
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Infrastructure/obj/Debug/net6.0/Kodlama.io.Devs.Infrastructure.csproj.AssemblyReference.cache
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Infrastructure/obj/Debug/net6.0/Kodlama.io.Devs.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Infrastructure/obj/Debug/net6.0/Kodlama.io.Devs.Infrastructure.AssemblyInfoInputs.cache
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Infrastructure/obj/Debug/net6.0/Kodlama.io.Devs.Infrastructure.AssemblyInfo.cs
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Infrastructure/obj/Debug/net6.0/Kodlama.io.Devs.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Infrastructure/obj/Debug/net6.0/Kodlama.io.Devs.Infrastructure.dll
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Infrastructure/obj/Debug/net6.0/refint/Kodlama.io.Devs.Infrastructure.dll
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Infrastructure/obj/Debug/net6.0/Kodlama.io.Devs.Infrastructure.pdb
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Infrastructure/obj/Debug/net6.0/ref/Kodlama.io.Devs.Infrastructure.dll
