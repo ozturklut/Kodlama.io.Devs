@@ -10,15 +10,3 @@ D:/sihirlitus/localrepo/nalburerka/src/corePackages/Core.Mailing/obj/Debug/net6.
 D:/sihirlitus/localrepo/nalburerka/src/corePackages/Core.Mailing/obj/Debug/net6.0/refint/Core.Mailing.dll
 D:/sihirlitus/localrepo/nalburerka/src/corePackages/Core.Mailing/obj/Debug/net6.0/Core.Mailing.pdb
 D:/sihirlitus/localrepo/nalburerka/src/corePackages/Core.Mailing/obj/Debug/net6.0/ref/Core.Mailing.dll
-/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Mailing/bin/Debug/net6.0/Core.Mailing.deps.json
-/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Mailing/bin/Debug/net6.0/Core.Mailing.dll
-/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Mailing/bin/Debug/net6.0/Core.Mailing.pdb
-/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Mailing/obj/Debug/net6.0/Core.Mailing.csproj.AssemblyReference.cache
-/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Mailing/obj/Debug/net6.0/Core.Mailing.GeneratedMSBuildEditorConfig.editorconfig
-/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Mailing/obj/Debug/net6.0/Core.Mailing.AssemblyInfoInputs.cache
-/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Mailing/obj/Debug/net6.0/Core.Mailing.AssemblyInfo.cs
-/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Mailing/obj/Debug/net6.0/Core.Mailing.csproj.CoreCompileInputs.cache
-/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Mailing/obj/Debug/net6.0/Core.Mailing.dll
-/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Mailing/obj/Debug/net6.0/refint/Core.Mailing.dll
-/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Mailing/obj/Debug/net6.0/Core.Mailing.pdb
-/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Mailing/obj/Debug/net6.0/ref/Core.Mailing.dll

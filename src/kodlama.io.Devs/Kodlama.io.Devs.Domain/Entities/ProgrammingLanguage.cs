@@ -7,6 +7,8 @@ namespace Kodlama.io.Devs.Domain.Entities
     {
         public string Name { get; set; } = string.Empty;
 
+        public virtual ICollection<ProgrammingTechnology> ProgrammingTechnologies { get; set; }
+
         public ProgrammingLanguage()
         {
 

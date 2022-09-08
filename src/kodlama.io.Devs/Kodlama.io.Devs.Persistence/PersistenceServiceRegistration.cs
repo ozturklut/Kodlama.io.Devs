@@ -22,6 +22,7 @@ namespace Kodlama.io.Devs.Persistence
             });
 
             services.AddScoped<IProgrammingLanguageRepository, ProgrammingLanguageRepository>();
+            services.AddScoped<IProgrammingTechnologyRepository, ProgrammingTechnologyRepository>();
 
             return services;
         }

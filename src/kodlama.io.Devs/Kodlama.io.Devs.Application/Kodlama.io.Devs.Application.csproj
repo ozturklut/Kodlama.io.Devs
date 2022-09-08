@@ -26,6 +26,16 @@
     <None Remove="Features\ProgrammingLanguages\Commands\CreateProgrammingLanguage\" />
     <None Remove="Features\ProgrammingLanguages\Commands\DeleteProgrammingLanguage\" />
     <None Remove="Features\ProgrammingLanguages\Commands\UpdateProgrammingLanguage\" />
+    <None Remove="Features\ProgrammingTechnologies\" />
+    <None Remove="Features\ProgrammingTechnologies\Commands\" />
+    <None Remove="Features\ProgrammingTechnologies\Constants\" />
+    <None Remove="Features\ProgrammingTechnologies\Dtos\" />
+    <None Remove="Features\ProgrammingTechnologies\Models\" />
+    <None Remove="Features\ProgrammingTechnologies\Profiles\" />
+    <None Remove="Features\ProgrammingTechnologies\Queries\" />
+    <None Remove="Features\ProgrammingTechnologies\Rules\" />
+    <None Remove="Features\ProgrammingTechnologies\Commands\CreateProgrammingTechnology\" />
+    <None Remove="Features\ProgrammingTechnologies\Queries\GetListProgrammingTechnology\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Features\" />
@@ -44,6 +54,16 @@
     <Folder Include="Features\ProgrammingLanguages\Commands\CreateProgrammingLanguage\" />
     <Folder Include="Features\ProgrammingLanguages\Commands\DeleteProgrammingLanguage\" />
     <Folder Include="Features\ProgrammingLanguages\Commands\UpdateProgrammingLanguage\" />
+    <Folder Include="Features\ProgrammingTechnologies\" />
+    <Folder Include="Features\ProgrammingTechnologies\Commands\" />
+    <Folder Include="Features\ProgrammingTechnologies\Constants\" />
+    <Folder Include="Features\ProgrammingTechnologies\Dtos\" />
+    <Folder Include="Features\ProgrammingTechnologies\Models\" />
+    <Folder Include="Features\ProgrammingTechnologies\Profiles\" />
+    <Folder Include="Features\ProgrammingTechnologies\Queries\" />
+    <Folder Include="Features\ProgrammingTechnologies\Rules\" />
+    <Folder Include="Features\ProgrammingTechnologies\Commands\CreateProgrammingTechnology\" />
+    <Folder Include="Features\ProgrammingTechnologies\Queries\GetListProgrammingTechnology\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
