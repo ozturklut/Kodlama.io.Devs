@@ -22,3 +22,15 @@ D:/sihirlitus/localrepo/nalburerka/src/corePackages/Core.Persistence/obj/Debug/n
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Persistence/obj/Debug/net6.0/refint/Core.Persistence.dll
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.pdb
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Persistence/obj/Debug/net6.0/ref/Core.Persistence.dll
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.Persistence\bin\Debug\net6.0\Core.Persistence.deps.json
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.Persistence\bin\Debug\net6.0\Core.Persistence.dll
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.Persistence\bin\Debug\net6.0\Core.Persistence.pdb
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.csproj.AssemblyReference.cache
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.AssemblyInfoInputs.cache
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.AssemblyInfo.cs
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.csproj.CoreCompileInputs.cache
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.dll
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\refint\Core.Persistence.dll
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.pdb
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\ref\Core.Persistence.dll

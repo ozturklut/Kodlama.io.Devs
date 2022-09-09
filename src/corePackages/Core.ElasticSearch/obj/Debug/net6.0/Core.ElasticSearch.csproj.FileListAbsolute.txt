@@ -10,3 +10,15 @@ D:/sihirlitus/localrepo/nalburerka/src/corePackages/Core.ElasticSearch/obj/Debug
 D:/sihirlitus/localrepo/nalburerka/src/corePackages/Core.ElasticSearch/obj/Debug/net6.0/refint/Core.ElasticSearch.dll
 D:/sihirlitus/localrepo/nalburerka/src/corePackages/Core.ElasticSearch/obj/Debug/net6.0/Core.ElasticSearch.pdb
 D:/sihirlitus/localrepo/nalburerka/src/corePackages/Core.ElasticSearch/obj/Debug/net6.0/ref/Core.ElasticSearch.dll
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\Core.ElasticSearch.deps.json
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\Core.ElasticSearch.dll
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\Core.ElasticSearch.pdb
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.csproj.AssemblyReference.cache
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.AssemblyInfoInputs.cache
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.AssemblyInfo.cs
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.csproj.CoreCompileInputs.cache
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.dll
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\refint\Core.ElasticSearch.dll
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.pdb
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\ref\Core.ElasticSearch.dll

@@ -38,7 +38,6 @@
     <None Remove="Features\ProgrammingTechnologies\Queries\GetListProgrammingTechnology\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Features\" />
     <Folder Include="Services\" />
     <Folder Include="Features\ProgrammingLanguages\" />
     <Folder Include="Features\ProgrammingLanguages\Commands\" />
@@ -54,15 +53,10 @@
     <Folder Include="Features\ProgrammingLanguages\Commands\CreateProgrammingLanguage\" />
     <Folder Include="Features\ProgrammingLanguages\Commands\DeleteProgrammingLanguage\" />
     <Folder Include="Features\ProgrammingLanguages\Commands\UpdateProgrammingLanguage\" />
-    <Folder Include="Features\ProgrammingTechnologies\" />
-    <Folder Include="Features\ProgrammingTechnologies\Commands\" />
     <Folder Include="Features\ProgrammingTechnologies\Constants\" />
-    <Folder Include="Features\ProgrammingTechnologies\Dtos\" />
     <Folder Include="Features\ProgrammingTechnologies\Models\" />
     <Folder Include="Features\ProgrammingTechnologies\Profiles\" />
     <Folder Include="Features\ProgrammingTechnologies\Queries\" />
-    <Folder Include="Features\ProgrammingTechnologies\Rules\" />
-    <Folder Include="Features\ProgrammingTechnologies\Commands\CreateProgrammingTechnology\" />
     <Folder Include="Features\ProgrammingTechnologies\Queries\GetListProgrammingTechnology\" />
   </ItemGroup>
   <ItemGroup>

@@ -1,6 +1,7 @@
 ﻿using System;
 using AutoMapper;
 using Kodlama.io.Devs.Application.Features.ProgrammingTechnologies.Dtos;
+using Kodlama.io.Devs.Application.Features.ProgrammingTechnologies.Rules;
 using Kodlama.io.Devs.Application.Services.Repositories;
 using Kodlama.io.Devs.Domain.Entities;
 using MediatR;
@@ -17,15 +18,19 @@ namespace Kodlama.io.Devs.Application.Features.ProgrammingTechnologies.Commands.
         {
             private readonly IProgrammingTechnologyRepository _programmingTechnologyRepository;
             private readonly IMapper _mapper;
-
-            public CreateProgrammingTechnologyCommandHandler(IProgrammingTechnologyRepository programmingTechnologyRepository, IMapper mapper)
+            private readonly ProgrammingTechnologyBusinessRules _programmingTechnologyBusinessRules;
+            public CreateProgrammingTechnologyCommandHandler(IProgrammingTechnologyRepository programmingTechnologyRepository, IMapper mapper, ProgrammingTechnologyBusinessRules programmingTechnologyBusinessRules)
             {
                 _programmingTechnologyRepository = programmingTechnologyRepository;
                 _mapper = mapper;
+                _programmingTechnologyBusinessRules = programmingTechnologyBusinessRules;
             }
 
             public async Task<CreateProgrammingTechnologyDto> Handle(CreateProgrammingTechnologyCommand request, CancellationToken cancellationToken)
             {
+                await _programmingTechnologyBusinessRules.ProgrammingTechnologyNameCanNotBeDuplicateWhenInserted(request.Name);
+                await _programmingTechnologyBusinessRules.ProgrammingLanguageExistWhenInserted(request.ProgrammingLanguageId);
+
                 ProgrammingTechnology mappedProgrammingTechnology = _mapper.Map<ProgrammingTechnology>(request);
                 ProgrammingTechnology createdProgrammingTechnology = await _programmingTechnologyRepository.AddAsync(mappedProgrammingTechnology);
 

@@ -4,6 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Core.Application.Requests;
 using Kodlama.io.Devs.Application.Features.ProgrammingTechnologies.Commands.CreateProgrammingTechnology;
+using Kodlama.io.Devs.Application.Features.ProgrammingTechnologies.Commands.DeleteProgrammingTechnology;
+using Kodlama.io.Devs.Application.Features.ProgrammingTechnologies.Commands.UpdateProgrammingTechnology;
 using Kodlama.io.Devs.Application.Features.ProgrammingTechnologies.Dtos;
 using Kodlama.io.Devs.Application.Features.ProgrammingTechnologies.Models;
 using Kodlama.io.Devs.Application.Features.ProgrammingTechnologies.Queries.GetListProgrammingTechnology;
@@ -33,6 +35,20 @@ namespace Kodlama.io.Devs.WebAPI.Controllers
             ProgrammingTechnologyListModel result = await Mediator.Send(getListProgrammingTechnologyQuery);
 
             return Ok(result);
+        }
+
+        [HttpDelete("{Id}")]
+        public async Task<IActionResult> Delete([FromRoute] DeleteProgrammingTechnologyCommand deleteProgrammingTechnologyCommand)
+        {
+            DeletedProgrammingTechnologyDto deletedProgrammingTechnologyDto = await Mediator.Send(deleteProgrammingTechnologyCommand);
+            return Ok(deletedProgrammingTechnologyDto);
+        }
+
+        [HttpPut]
+        public async Task<IActionResult> Update([FromBody] UpdateProgrammingTechnologyCommand updateProgrammingTechnologyCommand)
+        {
+            UpdatedProgrammingTechnologyDto updatedProgrammingTechnologyDto = await Mediator.Send(updateProgrammingTechnologyCommand);
+            return Ok(updatedProgrammingTechnologyDto);
         }
     }
 }

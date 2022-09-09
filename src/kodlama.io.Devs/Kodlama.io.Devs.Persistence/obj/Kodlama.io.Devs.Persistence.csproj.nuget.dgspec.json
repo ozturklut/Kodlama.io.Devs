@@ -1,36 +1,50 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Persistence/Kodlama.io.Devs.Persistence.csproj": {}
+    "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Persistence\\Kodlama.io.Devs.Persistence.csproj": {}
   },
   "projects": {
-    "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Application/Core.Application.csproj": {
+    "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Application/Core.Application.csproj",
+        "projectUniqueName": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Application\\Core.Application.csproj",
         "projectName": "Core.Application",
-        "projectPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Application/Core.Application.csproj",
-        "packagesPath": "/Users/lutfullahozturk/.nuget/packages/",
-        "outputPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Application/obj/",
+        "projectPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Application\\Core.Application.csproj",
+        "packagesPath": "C:\\Users\\STUS\\.nuget\\packages\\",
+        "outputPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/lutfullahozturk/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\STUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/bsVm71gb6m9FeE9jQsx9JTLnR4OCRbSZb76aF9S4MAnu63QMDb/api": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.CrossCuttingConcers/Core.CrossCuttingConcerns.csproj": {
-                "projectPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.CrossCuttingConcers/Core.CrossCuttingConcerns.csproj"
+              "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj": {
+                "projectPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj"
               },
-              "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Security/Core.Security.csproj": {
-                "projectPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Security/Core.Security.csproj"
+              "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
+                "projectPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Security\\Core.Security.csproj"
               }
             }
           }
@@ -72,8 +86,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -82,27 +95,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.CrossCuttingConcers/Core.CrossCuttingConcerns.csproj": {
+    "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.CrossCuttingConcers/Core.CrossCuttingConcerns.csproj",
+        "projectUniqueName": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
         "projectName": "Core.CrossCuttingConcerns",
-        "projectPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.CrossCuttingConcers/Core.CrossCuttingConcerns.csproj",
-        "packagesPath": "/Users/lutfullahozturk/.nuget/packages/",
-        "outputPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.CrossCuttingConcers/obj/",
+        "projectPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
+        "packagesPath": "C:\\Users\\STUS\\.nuget\\packages\\",
+        "outputPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.CrossCuttingConcers\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/lutfullahozturk/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\STUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/bsVm71gb6m9FeE9jQsx9JTLnR4OCRbSZb76aF9S4MAnu63QMDb/api": {}
         },
         "frameworks": {
           "net6.0": {
@@ -147,8 +174,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -157,27 +183,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Persistence/Core.Persistence.csproj": {
+    "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Persistence/Core.Persistence.csproj",
+        "projectUniqueName": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
         "projectName": "Core.Persistence",
-        "projectPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Persistence/Core.Persistence.csproj",
-        "packagesPath": "/Users/lutfullahozturk/.nuget/packages/",
-        "outputPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Persistence/obj/",
+        "projectPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+        "packagesPath": "C:\\Users\\STUS\\.nuget\\packages\\",
+        "outputPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Persistence\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/lutfullahozturk/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\STUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/bsVm71gb6m9FeE9jQsx9JTLnR4OCRbSZb76aF9S4MAnu63QMDb/api": {}
         },
         "frameworks": {
           "net6.0": {
@@ -210,8 +250,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -220,34 +259,48 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Security/Core.Security.csproj": {
+    "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Security/Core.Security.csproj",
+        "projectUniqueName": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Security\\Core.Security.csproj",
         "projectName": "Core.Security",
-        "projectPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Security/Core.Security.csproj",
-        "packagesPath": "/Users/lutfullahozturk/.nuget/packages/",
-        "outputPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Security/obj/",
+        "projectPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Security\\Core.Security.csproj",
+        "packagesPath": "C:\\Users\\STUS\\.nuget\\packages\\",
+        "outputPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Security\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/lutfullahozturk/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\STUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/bsVm71gb6m9FeE9jQsx9JTLnR4OCRbSZb76aF9S4MAnu63QMDb/api": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Persistence/Core.Persistence.csproj": {
-                "projectPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Persistence/Core.Persistence.csproj"
+              "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+                "projectPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
               }
             }
           }
@@ -289,8 +342,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -299,43 +351,57 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Application/Kodlama.io.Devs.Application.csproj": {
+    "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Application\\Kodlama.io.Devs.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Application/Kodlama.io.Devs.Application.csproj",
+        "projectUniqueName": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Application\\Kodlama.io.Devs.Application.csproj",
         "projectName": "Kodlama.io.Devs.Application",
-        "projectPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Application/Kodlama.io.Devs.Application.csproj",
-        "packagesPath": "/Users/lutfullahozturk/.nuget/packages/",
-        "outputPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Application/obj/",
+        "projectPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Application\\Kodlama.io.Devs.Application.csproj",
+        "packagesPath": "C:\\Users\\STUS\\.nuget\\packages\\",
+        "outputPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/lutfullahozturk/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\STUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/bsVm71gb6m9FeE9jQsx9JTLnR4OCRbSZb76aF9S4MAnu63QMDb/api": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Application/Core.Application.csproj": {
-                "projectPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Application/Core.Application.csproj"
+              "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
+                "projectPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Application\\Core.Application.csproj"
               },
-              "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.CrossCuttingConcers/Core.CrossCuttingConcerns.csproj": {
-                "projectPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.CrossCuttingConcers/Core.CrossCuttingConcerns.csproj"
+              "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj": {
+                "projectPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj"
               },
-              "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Persistence/Core.Persistence.csproj": {
-                "projectPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Persistence/Core.Persistence.csproj"
+              "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+                "projectPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
               },
-              "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Domain/Kodlama.io.Devs.Domain.csproj": {
-                "projectPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Domain/Kodlama.io.Devs.Domain.csproj"
+              "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Domain\\Kodlama.io.Devs.Domain.csproj": {
+                "projectPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Domain\\Kodlama.io.Devs.Domain.csproj"
               }
             }
           }
@@ -369,8 +435,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -379,34 +444,48 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Domain/Kodlama.io.Devs.Domain.csproj": {
+    "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Domain\\Kodlama.io.Devs.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Domain/Kodlama.io.Devs.Domain.csproj",
+        "projectUniqueName": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Domain\\Kodlama.io.Devs.Domain.csproj",
         "projectName": "Kodlama.io.Devs.Domain",
-        "projectPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Domain/Kodlama.io.Devs.Domain.csproj",
-        "packagesPath": "/Users/lutfullahozturk/.nuget/packages/",
-        "outputPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Domain/obj/",
+        "projectPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Domain\\Kodlama.io.Devs.Domain.csproj",
+        "packagesPath": "C:\\Users\\STUS\\.nuget\\packages\\",
+        "outputPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/lutfullahozturk/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\STUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/bsVm71gb6m9FeE9jQsx9JTLnR4OCRbSZb76aF9S4MAnu63QMDb/api": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Persistence/Core.Persistence.csproj": {
-                "projectPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/corePackages/Core.Persistence/Core.Persistence.csproj"
+              "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+                "projectPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
               }
             }
           }
@@ -426,8 +505,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -436,37 +514,51 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Persistence/Kodlama.io.Devs.Persistence.csproj": {
+    "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Persistence\\Kodlama.io.Devs.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Persistence/Kodlama.io.Devs.Persistence.csproj",
+        "projectUniqueName": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Persistence\\Kodlama.io.Devs.Persistence.csproj",
         "projectName": "Kodlama.io.Devs.Persistence",
-        "projectPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Persistence/Kodlama.io.Devs.Persistence.csproj",
-        "packagesPath": "/Users/lutfullahozturk/.nuget/packages/",
-        "outputPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Persistence/obj/",
+        "projectPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Persistence\\Kodlama.io.Devs.Persistence.csproj",
+        "packagesPath": "C:\\Users\\STUS\\.nuget\\packages\\",
+        "outputPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Persistence\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/lutfullahozturk/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\STUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/bsVm71gb6m9FeE9jQsx9JTLnR4OCRbSZb76aF9S4MAnu63QMDb/api": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Application/Kodlama.io.Devs.Application.csproj": {
-                "projectPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Application/Kodlama.io.Devs.Application.csproj"
+              "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Application\\Kodlama.io.Devs.Application.csproj": {
+                "projectPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Application\\Kodlama.io.Devs.Application.csproj"
               },
-              "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Domain/Kodlama.io.Devs.Domain.csproj": {
-                "projectPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Domain/Kodlama.io.Devs.Domain.csproj"
+              "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Domain\\Kodlama.io.Devs.Domain.csproj": {
+                "projectPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Domain\\Kodlama.io.Devs.Domain.csproj"
               }
             }
           }
@@ -500,8 +592,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -510,7 +601,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,12 @@
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\bin\Debug\net6.0\Kodlama.io.Devs.Infrastructure.deps.json
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\bin\Debug\net6.0\Kodlama.io.Devs.Infrastructure.dll
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\bin\Debug\net6.0\Kodlama.io.Devs.Infrastructure.pdb
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.csproj.AssemblyReference.cache
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.AssemblyInfoInputs.cache
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.AssemblyInfo.cs
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.csproj.CoreCompileInputs.cache
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.dll
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\refint\Kodlama.io.Devs.Infrastructure.dll
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.pdb
+D:\sihirlitus\localrepo\Kodlama.io.Devs\src\kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\ref\Kodlama.io.Devs.Infrastructure.dll

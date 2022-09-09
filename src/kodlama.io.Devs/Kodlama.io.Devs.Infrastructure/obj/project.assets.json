@@ -8,25 +8,42 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/lutfullahozturk/.nuget/packages/": {}
+    "C:\\Users\\STUS\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Infrastructure/Kodlama.io.Devs.Infrastructure.csproj",
+      "projectUniqueName": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Infrastructure\\Kodlama.io.Devs.Infrastructure.csproj",
       "projectName": "Kodlama.io.Devs.Infrastructure",
-      "projectPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Infrastructure/Kodlama.io.Devs.Infrastructure.csproj",
-      "packagesPath": "/Users/lutfullahozturk/.nuget/packages/",
-      "outputPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/Kodlama.io.Devs/src/kodlama.io.Devs/Kodlama.io.Devs.Infrastructure/obj/",
+      "projectPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Infrastructure\\Kodlama.io.Devs.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\STUS\\.nuget\\packages\\",
+      "outputPath": "D:\\sihirlitus\\localrepo\\Kodlama.io.Devs\\src\\kodlama.io.Devs\\Kodlama.io.Devs.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/lutfullahozturk/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\STUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.devexpress.com/bsVm71gb6m9FeE9jQsx9JTLnR4OCRbSZb76aF9S4MAnu63QMDb/api": {}
       },
       "frameworks": {
         "net6.0": {
@@ -49,8 +66,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -59,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
